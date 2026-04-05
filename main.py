@@ -1,4 +1,10 @@
-print("library management system ")
+print("Library Management System Started")
 
+# Login feature
+username = input("Enter username: ")
+password = input("Enter password: ")
 
-print("New feature added: Book Issue Module")
+if username == "admin" and password == "1234":
+    print("Login Successful")
+else:
+    print("Invalid Credentials")
