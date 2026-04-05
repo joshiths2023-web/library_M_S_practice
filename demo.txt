@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi this is joshith and i have mid exam
+=======
+hi this is anukeerthana
+>>>>>>> db5b30918b5e35eea5d4fc96ab877e15671a473a
